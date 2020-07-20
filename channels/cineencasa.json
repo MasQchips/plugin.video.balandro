@@ -1,0 +1,15 @@
+{
+  "id": "cineencasa",
+  "name": "CineEnCasa",
+  "thumbnail": "cineencasa.jpg",
+
+  "active": true,
+
+  "searchable": true,
+  "search_types": ["movie"],
+
+  "categories": [ "movie" ],
+  "language": ["cast"],
+
+  "notes": "Peliculas en Español, por géneros."
+}
